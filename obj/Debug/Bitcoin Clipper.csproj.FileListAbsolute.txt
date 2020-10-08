@@ -1,0 +1,9 @@
+D:\AW 17\Source Code Visual Studio 19\Bitcoin Clipper\obj\Debug\Bitcoin_Clipper.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Bitcoin Clipper\obj\Debug\Bitcoin_Clipper.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Bitcoin Clipper\obj\Debug\Bitcoin Clipper.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Bitcoin Clipper\obj\Debug\Bitcoin Clipper.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Bitcoin Clipper\bin\Debug\Bitcoin Clipper.exe.config
+D:\AW 17\Source Code Visual Studio 19\Bitcoin Clipper\bin\Debug\Bitcoin Clipper.exe
+D:\AW 17\Source Code Visual Studio 19\Bitcoin Clipper\bin\Debug\Bitcoin Clipper.pdb
+D:\AW 17\Source Code Visual Studio 19\Bitcoin Clipper\obj\Debug\Bitcoin Clipper.exe
+D:\AW 17\Source Code Visual Studio 19\Bitcoin Clipper\obj\Debug\Bitcoin Clipper.pdb
